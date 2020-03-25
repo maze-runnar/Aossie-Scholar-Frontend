@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Aossie-Scholar-Frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Aossie-Scholar-Frontend/static/js/main.8bc53688.chunk.js",
+    "main.js.map": "/Aossie-Scholar-Frontend/static/js/main.8bc53688.chunk.js.map",
+    "runtime-main.js": "/Aossie-Scholar-Frontend/static/js/runtime-main.364c12a0.js",
+    "runtime-main.js.map": "/Aossie-Scholar-Frontend/static/js/runtime-main.364c12a0.js.map",
+    "static/css/2.9ddb28ea.chunk.css": "/Aossie-Scholar-Frontend/static/css/2.9ddb28ea.chunk.css",
+    "static/js/2.6bfa6d3d.chunk.js": "/Aossie-Scholar-Frontend/static/js/2.6bfa6d3d.chunk.js",
+    "static/js/2.6bfa6d3d.chunk.js.map": "/Aossie-Scholar-Frontend/static/js/2.6bfa6d3d.chunk.js.map",
+    "index.html": "/Aossie-Scholar-Frontend/index.html",
+    "precache-manifest.39afff0912bb1f9c5106fba612a7bbbc.js": "/Aossie-Scholar-Frontend/precache-manifest.39afff0912bb1f9c5106fba612a7bbbc.js",
+    "service-worker.js": "/Aossie-Scholar-Frontend/service-worker.js",
+    "static/css/2.9ddb28ea.chunk.css.map": "/Aossie-Scholar-Frontend/static/css/2.9ddb28ea.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Aossie-Scholar-Frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6bfa6d3d.chunk.js.LICENSE.txt": "/Aossie-Scholar-Frontend/static/js/2.6bfa6d3d.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Aossie-Scholar-Frontend/static/media/1.1a6f8e55.jpg",
+    "static/media/AOSSIE.png": "/Aossie-Scholar-Frontend/static/media/AOSSIE.f93ca61c.png",
+    "static/media/TNC.jpg": "/Aossie-Scholar-Frontend/static/media/TNC.7da5dfa5.jpg",
+    "static/media/gindex.png": "/Aossie-Scholar-Frontend/static/media/gindex.5c47038f.png",
+    "static/media/gitlab.png": "/Aossie-Scholar-Frontend/static/media/gitlab.bbd05b15.png",
+    "static/media/gitter.jpg": "/Aossie-Scholar-Frontend/static/media/gitter.ae27d7ff.jpg",
+    "static/media/hindex.png": "/Aossie-Scholar-Frontend/static/media/hindex.716b7b7d.png",
+    "static/media/hindexvisual.png": "/Aossie-Scholar-Frontend/static/media/hindexvisual.b6487141.png",
+    "static/media/mindex.png": "/Aossie-Scholar-Frontend/static/media/mindex.f92b06ed.png",
+    "static/media/oindex.png": "/Aossie-Scholar-Frontend/static/media/oindex.d92624fd.png",
+    "static/media/search.jpg": "/Aossie-Scholar-Frontend/static/media/search.e5cc4acf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.364c12a0.js",
+    "static/css/2.9ddb28ea.chunk.css",
+    "static/js/2.6bfa6d3d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8bc53688.chunk.js"
+  ]
+}
