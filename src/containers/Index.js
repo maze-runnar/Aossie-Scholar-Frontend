@@ -27,8 +27,8 @@ state = {
   render(){
   return(
     <div>
-      <div style={{textAlign: 'center', backgroundAttachment: 'fixed',backgroundRepeat: 'no-repeat',backgroundSize: 'cover',backgroundImage:"url('https://images.unsplash.com/photo-1580152102961-676c176007c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') ", width: '100%'}}>
-        <img src={Image5} style={{width:'30%'}}/>
+      <div style={{textAlign: 'center', backgroundAttachment: 'fixed',backgroundRepeat: 'no-repeat',backgroundSize: 'cover',backgroundImage:"url('https://images.unsplash.com/photo-1580152102961-676c176007c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') ", width: '100%', opacity: 0.5}}>
+        <img src={Image5} style={{width:'40%'}}/>
         <br/><br/><br/><span style ={{color: "green", fontSize:'80px', alignContent:'center', fontFamily: 'cursive', fontStyle:'oblique', fontVariant: 'small-caps'}}><b><span style={{color:'yellow', fontFamily: 'cursive', fontStyle:'oblique', fontVariant: 'small-caps'}}>MY - </span>Scholar</b></span>
       </div>
       <div style={{textAlign:'center', padding:'20px'}}>
