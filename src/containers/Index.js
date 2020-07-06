@@ -28,7 +28,7 @@ state = {
     <div>
       <div style={{textAlign: 'center', backgroundAttachment: 'fixed',backgroundRepeat: 'no-repeat',backgroundSize: 'cover',backgroundImage:"url('https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=370&w=1200') ", width: '100%'}}>
         <img src={Image2} style={{width:'30%'}}/>
-        <br/><br/><br/><span style ={{color: "green", fontSize:'80px', alignContent:'center', fontFamily: 'cursive', fontStyle:'oblique', fontVariant: 'small-caps'}}><b><span style={{color:'yellow', fontFamily: 'cursive', fontStyle:'oblique', fontVariant: 'small-caps'}}>Aossie </span>Scholar</b></span>
+        <br/><br/><br/><span style ={{color: "green", fontSize:'80px', alignContent:'center', fontFamily: 'cursive', fontStyle:'oblique', fontVariant: 'small-caps'}}><b><span style={{color:'yellow', fontFamily: 'cursive', fontStyle:'oblique', fontVariant: 'small-caps'}}>MY - </span>Scholar</b></span>
       </div>
       <div style={{textAlign:'center', padding:'20px'}}>
       </div>
@@ -41,7 +41,7 @@ state = {
              cover={<img alt="example" src={Image3} />}
               bordered={false}     
             >
-            <Meta title="What is Aossie Scholar?" description="Aossie is a project of Australia opoen source organization." />
+            <Meta title="What is Google Scholar?" description="Google Scholar is the one of the biggest platform to search articles, journals and papers." />
               
             </Card>
           </Col>
@@ -51,7 +51,7 @@ state = {
               bordered={false}
            
             >
-            <Meta title="Why Aossie Scholar?" description="To get more accurate data and flawless metrces than Google Schlolar." />
+            <Meta title="Why My Scholar?" description="To get more accurate data and flawless metrces than Google Schlolar." />
               
             </Card>
           </Col>
@@ -60,7 +60,7 @@ state = {
              cover={<img alt="example" src={Image4}  />}
               bordered={false}           
             >
-            <Meta title="Contribute to Aossie Scholar" description="Visit https://gitlab.com/aossie/aossie-scholar" />              
+            <Meta title="Contribute to My-Scholar" description="Visit https://gitlab.com/aossie/aossie-scholar" />              
             </Card>
           </Col>
         </Row>
